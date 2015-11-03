@@ -1,0 +1,7 @@
+[package]
+name = "qgramr"
+version = "0.1.0"
+authors = ["Erik Clarke <erikclarke@gmail.com>"]
+
+[dependencies]
+bio = "*"
